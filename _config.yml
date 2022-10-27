@@ -50,9 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /hedge.jpg
 about_content: | # this will include new lines to allow paragraphs
-Due to build error I can't fill anything here
+  Due to build error I can't fill anything here
 
 content:
   - title: Projects # Title for the section
