@@ -53,8 +53,7 @@ additional_links:
 about_profile_image: /hedge.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-- name/ Kim Jae-Yong
-
+name/ Kim Jae-Yong
 
 content:
   - title: Projects # Title for the section
