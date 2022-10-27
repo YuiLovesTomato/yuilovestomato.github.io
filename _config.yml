@@ -6,17 +6,17 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Kim Jae-Yong
+title: Student, Hallym Univ
+email: 129kjy@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +82-10-5062-8203
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
