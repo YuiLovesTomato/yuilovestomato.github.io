@@ -54,12 +54,12 @@ googlescholar_username:
 about_profile_image: /hedge.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-- Kim Jae-Yong (pang, @yuilovestomato)
-- 129kjy@gmail.com
+Kim Jae-Yong (pang, @yuilovestomato)
+129kjy@gmail.com
 
-- Semiconductor, Circuit
-- C, C#, C++m, Python, Java
-- Vim, Shell, Tetris
+Semiconductor, Circuit
+C, C#, C++m, Python, Java
+Vim, Shell, Tetris
 
 content:
   - title: Projects # Title for the section
