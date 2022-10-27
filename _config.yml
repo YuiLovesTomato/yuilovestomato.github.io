@@ -52,17 +52,17 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-<mark>name</mark> pang/yuilovestomato
-<mark>email</mark> 129kjy@gmail. com
-<mark>Major</mark>
+name/ pang/yuilovestomato
+email/ 129kjy@gmail. com
+Major
 	- Semiconductor
 	- Circuit
 	- VHDL
-<mark>Langs</mark>
+Langs
 	- C, C#, C++
 	- Python
 	- Java
-<mark>Interests</mark>
+Interests
 	- Vim
 	- Shell
 	- Tetris
