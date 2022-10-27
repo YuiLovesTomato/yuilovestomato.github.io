@@ -1,5 +1,5 @@
 # Site
-repository: yuilovestomato/yuilovestomato.github.io
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -7,38 +7,37 @@ version: 2
 
 # Personal info
 name: Kim Jae-Yong
-title: Student, Hallym Univ
-email: 129kjy@gmail.com
+title: -
+email: 129kjy@gmial.com
 # email_title: Email (Email title override)
-phone: +82-10-5062-8203
+phone: -
 # phone_title: Phone (Phone title override)
-website: yuilovestomato.github.io
+website: -
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username:
-github_username: yuilovestomato
-stackoverflow_username:
-dribbble_username:
-facebook_username: 
-flickr_username: 
-instagram_username:
-linkedin_username:
-xing_username:
-pinterest_username:
-youtube_username:
-orcid_username:
-googlescholar_username:
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+orcid_username: 0000-0000-0000-0000
+googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,15 +50,22 @@ googlescholar_username:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /hedge.jpg
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-
-Kim Jae-Yong (pang, @yuilovestomato)
-129kjy@gmail.com
-
-Semiconductor, Circuit
-C, C#, C++m, Python, Java
-Vim, Shell, Tetris
+<mark>name</mark> pang/yuilovestomato
+<mark>email</mark> 129kjy@gmail. com
+<mark>Major</mark>
+	- Semiconductor
+	- Circuit
+	- VHDL
+<mark>Langs</mark>
+	- C, C#, C++
+	- Python
+	- Java
+<mark>Interests</mark>
+	- Vim
+	- Shell
+	- Tetris
 
 content:
   - title: Projects # Title for the section
@@ -68,13 +74,21 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: yuiormoa
-        link: yuilovestomato.github.io/yuiormoa
-        link_text: abandoned
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          yui or moa?
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          guess-who-game
+          Description about the work on/with the project
+          Description of qualification
 
 # Footer
 footer_show_references: true
